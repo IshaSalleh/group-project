@@ -296,7 +296,8 @@ id,facilities_id,name,address,postcode,city,district,state,tel,fax,website,email
 295,KD02080024,KLINIK DESA TELOK SERA,"Kampung Sera, Mukim Pulai, ",9100,Pulai,Baling,Kedah,,,,,,5.64289,100.9066,0,0,NEW
 296,KD02080030,KLINIK DESA TELOK SUNGAI DURIAN,"Kampung Telok Sungai Durian, Bongor",9100,Pulai,Baling,Kedah,,,,,,5.70758,100.9243,0,0,NEW
 297,KD02080034,KLINIK DESA TELOK TEMELAH,"Kampung Teluk Temelah, Mukim Siong,",9100,Siong,Baling,Kedah,,,,,,5.75919,100.9208,0,0,NEW
-298,KD02080032,KLINIK DESA TELUK TEDURI,"Jalan Kampong Telok Teduri",9100,Baling,Baling,Kedah,,,,,,5.65281,100.9243,0,0,NEW
+298,KD02080032,KLINIK DESA TELUK TEDURI,"Jalan Kampong Telok Teduri
+",9100,Baling,Baling,Kedah,,,,,,5.65281,100.9243,0,0,NEW
 299,KD02080012,KLINIK DESA TEMBAK A,"Kampung Tembak A, Mukim Teloi Kanan, ",9300,Parit Panjang,Baling,Kedah,,,,,,5.67514,100.7082,0,0,NEW
 300,KD02080001,KLINIK DESA TIAK,Jalan Baling- Gerik,9200,Kupang,Baling,Kedah,,,,,,5.5864,100.87936,0,0,NEW
 301,KD02080035,KLINIK DESA ULU BAKAI,"Kampung Ulu Bakai, Mukim Bakai",9020,Bakai,Baling,Kedah,,,,,,5.52061,100.7558,0,0,NEW
