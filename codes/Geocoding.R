@@ -25,5 +25,5 @@ data2<-rbind(data2,data3)
 
 
 #Part 4: save results
-write.csv('clinic1m2.csv',sep=",")
+write.csv('clinic1m.csv',sep=",")
 
