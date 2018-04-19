@@ -8,3 +8,6 @@ http://zevross.com/blog/2014/03/19/geocoding-with-rs-ggmap-package/
 https://geocompr.robinlovelace.net/spatial-class.html
 http://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html
 https://developer.android.com/reference/android/location/Geocoder.html
+
+Link below is to get spatial data that contains polygon boundaries of states
+https://gadm.org/data.html
