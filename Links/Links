@@ -11,3 +11,6 @@ https://developer.android.com/reference/android/location/Geocoder.html
 
 Link below is to get spatial data that contains polygon boundaries of states
 https://gadm.org/data.html
+
+Link below is to plot a map in R:
+http://rmhogervorst.nl/cleancode/blog/2017/01/06/plotting-a-map-with-ggplot2.html
